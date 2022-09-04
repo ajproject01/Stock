@@ -46,5 +46,10 @@ namespace StockManagementSoftware
                 btnClear_Click(sender, e);//clear textbox after getting error 
             }
         }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
